@@ -42,5 +42,5 @@ Holberton's curriculum for high-level programming. These projects are meant to h
 ---
 
 ## Author
- Derrick Gee - [kai-dg](https://github.com/kai-dg)
+ XSalim - [XSalim21](https://github.com/XSalim21)
 
